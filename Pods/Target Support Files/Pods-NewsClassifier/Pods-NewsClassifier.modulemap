@@ -1,0 +1,6 @@
+framework module Pods_NewsClassifier {
+  umbrella header "Pods-NewsClassifier-umbrella.h"
+
+  export *
+  module * { export * }
+}
